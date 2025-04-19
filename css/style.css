@@ -220,11 +220,15 @@ a {
   margin-left: 50px;
 }
 
-.img-next,
 .img-java {
   width: 100px;
   margin: 5px;
   margin-left: 50px;
+}
+
+.img-python {
+  width: 160px;
+  margin-left: 40px;
 }
 
 .img-oracle {
@@ -293,6 +297,11 @@ a {
 .joyfarm-img {
   width: 500px;
   height: 300px;
+}
+
+.nonnull-img {
+  width: 340px;
+  height: 200px;
 }
 
 .icon {
